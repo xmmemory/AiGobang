@@ -1,0 +1,2 @@
+# AiGobang
+AI Gobang.
